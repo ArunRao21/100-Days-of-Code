@@ -34,7 +34,7 @@ for(int i=0;i<Length;i++)
 
 	  Symbols++;
 
-     else if( PW[i]>=48 && PW[i]<=57 ) //
+     else if( PW[i]>=48 && PW[i]<=57 ) 
 
 	  Nums++;
 }
